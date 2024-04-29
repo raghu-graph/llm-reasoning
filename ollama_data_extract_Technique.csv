@@ -1,0 +1,10 @@
+techID,technique,desc,parameter
+1,Differential Calculus,A mathematical method for finding the derivative of a function.,"y, x"
+2,Wave-Particle Duality,A concept in quantum mechanics that suggests particles can exhibit both wave-like and particle-like behavior.,"Particle, Wave"
+3,Schrödinger Equation,A mathematical equation that describes the time evolution of a quantum system.,"System, Time"
+4,Wave Function,A mathematical function that describes the wave-like behavior of a quantum system.,"Wave, Function "
+5,Probability Amplitude,A parameter in the Schrödinger Equation that represents the probability of finding a particle in a particular state.,"Amplitude, Probability"
+6,Uncertainty Principle,"A fundamental principle in quantum mechanics that states that certain pairs of properties, such as position and momentum, cannot be precisely known at the same time. ","Principle, Uncertainty "
+7,Interference,A phenomenon in which the wave-like behavior of a quantum system results in constructive or destructive interference patterns.,"Interference, Patterns"
+8,Superposition,A concept in quantum mechanics that suggests that a quantum system can exist in multiple states simultaneously.,"Superposition, States"
+9,Entanglement,A phenomenon in which the properties of two or more quantum systems become intertwined in such a way that the state of one system cannot be described independently of the others.,"Entanglement, Systems"
